@@ -4,3 +4,6 @@
 [submodule "learn-web-api"]
 	path = learn-web-api
 	url = git@github.com:rudrOwO/learn-web-api.git
+[submodule "try"]
+	path = try
+	url = https://github.com/dotnet/try.git
