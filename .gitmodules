@@ -7,3 +7,6 @@
 [submodule "try"]
 	path = try
 	url = https://github.com/dotnet/try.git
+[submodule "buber-breakfast"]
+	path = buber-breakfast
+	url = https://github.com/amantinband/buber-breakfast.git
